@@ -1,6 +1,6 @@
 # Computer Security Repository
 
->### 1. All the Projects, codes and queries were developed at UTFPR-PB during the class: 
+>### 1. All the databases, queries, models and projects were developed at UTFPR-PB during the class: 
 - **BD26CP - Banco De Dados 1**
 - **BD27CP - Banco De Dados 2**
 ---
