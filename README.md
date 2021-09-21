@@ -26,7 +26,7 @@
     - Conceptual Project
     - Logic Project
     - Normalization
-- **Health Care System Vaccine Database**
+- **Healthcare System Vaccine Database**
     - Conceptual Project
     - Project Implementation
 ---
